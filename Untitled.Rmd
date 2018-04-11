@@ -1,16 +1,11 @@
 ---
-title: 'Business Forecasting: Midterm Exam'
+title: 'Business Forecasting:Candy Production'
 output:
   pdf_document: default
   html_notebook: default
   word_document: default
 ---
-NAME- Prabhat Johl
-RUID- 182002401
 
-Import Data
-
-Please do the following steps once the csv file is on your desktop. 
 
 ```{r}
 	library(readr)
